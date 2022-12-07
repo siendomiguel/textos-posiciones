@@ -7,6 +7,11 @@ h1 {
   margin: 10px 0px;
 }
 
+.posiciones {
+  width: 1400px;
+  height: auto;
+}
+
 .result-p {
   color: green;
 }
